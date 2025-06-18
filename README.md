@@ -2,6 +2,8 @@
 
 This repository contains Go code examples from a Wolt Golang Meetup talk, demonstrating the progression of building LLM-based agents. It showcases different approaches, from using vanilla LLM models to implementing complex multi-agent systems.
 
+[![Watch the video](https://img.youtube.com/vi/KeY1jqGf8eg/hqdefault.jpg)](https://youtu.be/KeY1jqGf8eg)
+
 ## Repository Structure and Components
 
 This repository is structured to illustrate a clear progression in developing AI agents. Each directory represents a step in this journey:
